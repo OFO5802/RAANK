@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.abiaz.com	TRUE	/	FALSE	1999999999	PHPSESSID	855c0ecd1321082f6333534802cb1fbc
+www.abiaz.com	TRUE	/	FALSE	1999999999	cf_7_rqid	646716
+www.abiaz.com	TRUE	/	FALSE	1999999999	mlkey	deleted
+www.abiaz.com	TRUE	/	FALSE	1999999999	MUserID	deleted
+www.abiaz.com	TRUE	/	FALSE	1999999999	MRemember	deleted
+www.abiaz.com	TRUE	/	FALSE	1999999999	cpkey	deleted
+www.abiaz.com	TRUE	/	FALSE	1999999999	recent_items	%7C%3E%7C1089%7C%3E%7C1090
+www.abiaz.com	TRUE	/	FALSE	1999999999	cf_5_rqid	646717
+
